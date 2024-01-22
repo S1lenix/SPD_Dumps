@@ -1,0 +1,82 @@
+Prepared by Thaiphoon Burner Super Blaster
+-------------------------------------------------------------
+                         MEMORY MODULE
+-------------------------------------------------------------
+Manufacturer              : Corsair
+Series                    : Vengeance RGB PRO SL
+Part Number               : CMH32GX4M2D3600C18
+Serial Number             : Undefined
+JEDEC DIMM Label          : 16GB 2Rx8 PC4-2133P-UB0-10
+Architecture              : DDR4 SDRAM UDIMM
+Speed Grade               : DDR4-2133P downbin
+Capacity                  : 16 GB (16 components)
+Organization              : 2048M x64 (2 ranks)
+Register Manufacturer     : N/A
+Register Model            : N/A
+Manufacturing Date        : Undefined
+Manufacturing Location    : Taiwan
+Revision / Raw Card       : 0000h / B0 (8 layers)
+-------------------------------------------------------------
+                        DRAM COMPONENTS
+-------------------------------------------------------------
+Manufacturer              : Samsung
+Part Number               : K4A8G085W[B/C/D]-BCPB
+Package                   : Standard Monolithic 78-ball FBGA
+Die Density / Count       : 8 Gb  / 1 die
+Composition               : 1024Mb x8 (64Mb x8 x 16 banks)
+Input Clock Frequency     : 1067 MHz (0,938 ns)
+Minimum Timing Delays     : 15-15-15-36-50
+Read Latencies Supported  : 24T, 23T, 22T, 21T, 20T, 19T, 18T...
+Supply Voltage            : Undefined
+XMP Certified             : 1799 MHz / 18-22-22-42-64 / 1,35 V
+XMP Extreme               : Not programmed
+SPD Revision              : 1.0 / January 2014
+XMP Revision              : 2.0 / December 2013
+-------------------------------------------------------------
+                         THERMAL SENSOR
+-------------------------------------------------------------
+Manufacturer              : OnSemi
+Model                     : N34TS04
+Revision                  : 30h
+Sensor Status             : Enabled
+EVENT Output Control      : Disabled
+Temperature Accuracy      : B-Grade
+Temperature Resolution    : 0,0625°C  (12-bit ADC)
+Current Temperature       : 42,313°C  / 108,163°F 
+Negative Measurements     : Supported
+Interrupt Capability      : Supported
+-------------------------------------------------------------
+                         RAW SPD DUMP
+-------------------------------------------------------------
+000  23 10 0C 02 85 21 00 08 00 00 00 00 09 03 80 00
+010  00 00 08 0C FF FF 03 00 6C 6C 6C 11 08 74 F0 0A
+020  20 08 00 05 00 A8 1E 2B 2B 00 00 00 00 00 00 00
+030  00 00 00 00 00 00 00 00 00 00 00 00 16 36 16 36
+040  16 36 16 36 00 00 2B 0C 2B 0C 2B 0C 2B 0C 00 00
+050  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+060  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+070  00 00 00 00 00 ED B5 CE 00 00 00 00 00 C2 1C 49
+080  11 11 01 01 00 00 00 00 00 00 00 00 00 00 00 00
+090  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0A0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0B0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0C0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0D0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0E0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0F0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 DE 27
+100  00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00
+110  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+120  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+130  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+140  02 9E 00 00 00 00 00 00 00 43 4D 48 33 32 47 58
+150  34 4D 32 44 33 36 30 30 43 31 38 00 00 00 80 CE
+160  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+170  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+180  0C 4A 01 20 00 00 00 00 00 A3 00 00 05 FF FF 03
+190  00 50 62 62 10 BA 1D F0 0A 20 08 00 05 00 B0 20
+1A0  2D 00 00 00 00 00 00 00 00 BF 94 CD E4 E4 FE BB
+1B0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+1C0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+1D0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+1E0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+1F0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
